@@ -1,0 +1,5 @@
+venv/
+anaconda/
+.idea/
+data
+models
